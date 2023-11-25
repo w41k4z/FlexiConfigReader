@@ -1,12 +1,6 @@
 package proj.w41k4z.fcr;
 
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.Map;
-
-import javax.xml.parsers.ParserConfigurationException;
-
-import org.xml.sax.SAXException;
 
 /**
  * Created by w41k on 14.06.14.
