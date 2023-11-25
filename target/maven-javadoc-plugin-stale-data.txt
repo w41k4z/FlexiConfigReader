@@ -1,0 +1,50 @@
+@options
+@packages
+-classpath
+'/home/alain/.m2/repository/proj/w41k4z/helpers/1.0-SNAPSHOT/helpers-1.0-SNAPSHOT.jar:/home/alain/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2.jar:/home/alain/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2.jar:/home/alain/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/alain/Project/Java/FlexiConfigReader/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/alain/Project/Java/FlexiConfigReader/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'fcr 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/alain/Project/Java/FlexiConfigReader/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'fcr 1.0-SNAPSHOT API'
+proj.w41k4z.fcr
+/home/alain/.m2/repository/proj/w41k4z/helpers/1.0-SNAPSHOT/helpers-1.0-SNAPSHOT.jar = 1700154942918
+/home/alain/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2.jar = 1699078171701
+/home/alain/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2.jar = 1699078171077
+/home/alain/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.jar = 1699078171061
+/home/alain/Project/Java/FlexiConfigReader/src/main/java = 1700830607542
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/tag-search-index.js = 1700904335836
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/member-search-index.js = 1700904335836
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/element-list = 1700904335736
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/help-doc.html = 1700904335864
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/jquery-ui.overrides.css = 1700904335876
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/overview-tree.html = 1700904335804
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/allclasses-index.html = 1700904335828
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/module-search-index.js = 1700904335832
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/type-search-index.js = 1700904335836
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/index-all.html = 1700904335856
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/package-search-index.js = 1700904335832
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/search.js = 1700904335872
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/stylesheet.css = 1700904335868
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/script.js = 1700904335868
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/allpackages-index.html = 1700904335832
+/home/alain/Project/Java/FlexiConfigReader/target/apidocs/index.html = 1700904335856

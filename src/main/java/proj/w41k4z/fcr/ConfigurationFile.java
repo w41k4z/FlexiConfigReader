@@ -4,6 +4,10 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Map;
 
+import javax.xml.parsers.ParserConfigurationException;
+
+import org.xml.sax.SAXException;
+
 /**
  * Created by w41k on 14.06.14.
  * 
@@ -18,10 +22,9 @@ public interface ConfigurationFile {
      * Load the configuration file.
      * 
      * @param filePath Path to the configuration file.
-     * @throws FileNotFoundException If the file was not found.
-     * @throws IOException           If an error occurred while reading the file.
+     * @throws Exception Depending on the implementation class.
      */
-    public void load(String filePath) throws FileNotFoundException, IOException;
+    public void load(String filePath) throws Exception;
 
     /**
      * Get the loaded configuration.
